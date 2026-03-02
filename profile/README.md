@@ -29,7 +29,7 @@
 <br/>
 
 <div align="center">
-  <img src="./Assets/logo.gif" width="900"/>
+  <img src="./Assets/logo.gif" width="700"/>
 </div>
 
 <br/>
