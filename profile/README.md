@@ -80,7 +80,7 @@ OUR PHILOSOPHY
 | <img src="https://github.com/samedTevin.png" width="65" height="65" style="border-radius:50%"/> | **Samed Tevin** <br/> <sub>230513327</sub> | Team Leader · Developer | [![GitHub](https://img.shields.io/badge/GitHub-samedTevin-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/samedTevin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Samed%20Tevin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samedtevin/) |
 | <img src="https://github.com/hasanackl.png" width="65" height="65" style="border-radius:50%"/> | **Hasan Açıkel** <br/> <sub>220513343</sub> | Developer | [![GitHub](https://img.shields.io/badge/GitHub-hasanackl-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hasanackl) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hasan%20Açıkel-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasana%C3%A7%C4%B1kel/) |
 | <img src="https://github.com/CoderRoninn.png" width="65" height="65" style="border-radius:50%"/> | **Doğukan Süme** <br/> <sub>210513243</sub> | Developer | [![GitHub](https://img.shields.io/badge/GitHub-CoderRoninn-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CoderRoninn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Doğukan%20Süme-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dogukansume/) |
-| <img src="https://github.com/KaganxSahin.png" width="65" height="65" style="border-radius:50%"/> | **Kağan Şahin** <br/> <sub>220513375</sub> | Developer | [![GitHub](https://img.shields.io/badge/GitHub-KaganxSahin-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/KaganxSahin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kağan%20Şahin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ka%C4%9Fan-%C5%9Fahin-v1o9s6t1ok-a1p9o6ll9o/) |
+| <img src="https://github.com/KaganxSahin.png" width="65" height="65" style="border-radius:50%"/> | **Kağan Şahin** <br/> <sub>220513375</sub> | Developer | [![GitHub](https://img.shields.io/badge/GitHub-KaganxSahin-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/KaganxSahin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kağan%20Şahin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaganxsahin/) |
 
 <br/>
 
@@ -170,7 +170,58 @@ graph TD
 <details>
   <summary><h1>Sprint 1</h1></summary>
 
-  
+---
+
+<details>
+    <summary><h2>App Screenshots</h2></summary>
+
+Coming Soon.
+
+New features and updated screens will be added in this section.
+
+</details>
+
+---
+
+<details>
+  <summary><h2>Project Management</h2></summary>
+
+Coming Soon.
+
+Sprint board visuals and task distribution details will be shared here.
+
+</details>
+
+---
+
+<details>
+  <summary><h2>Burndown Chart</h2></summary>
+
+Coming Soon.
+
+Sprint burndown and performance charts will be available here.
+
+</details>
+
+---
+
+- **Sprint Notes:**
+  * To be updated.
+
+- **Expected point completion within Sprint:**
+  * `TBA`
+
+- **Point Completion Logic:**
+  * Details will be updated at the end of the sprint.
+
+- **Sprint Review:**
+  * To be updated.
+
+- **Sprint Review Participants:**
+  * `TBA`
+
+- **Sprint Retrospective:**
+  * To be updated.
 
 </details>
 
@@ -179,7 +230,58 @@ graph TD
 <details>
   <summary><h1>Sprint 2</h1></summary>
 
-  
+---
+
+<details>
+    <summary><h2>App Screenshots</h2></summary>
+
+Coming Soon.
+
+New features and updated screens will be added in this section.
+
+</details>
+
+---
+
+<details>
+  <summary><h2>Project Management</h2></summary>
+
+Coming Soon.
+
+Sprint board visuals and task distribution details will be shared here.
+
+</details>
+
+---
+
+<details>
+  <summary><h2>Burndown Chart</h2></summary>
+
+Coming Soon.
+
+Sprint burndown and performance charts will be available here.
+
+</details>
+
+---
+
+- **Sprint Notes:**
+  * To be updated.
+
+- **Expected point completion within Sprint:**
+  * `TBA`
+
+- **Point Completion Logic:**
+  * Details will be updated at the end of the sprint.
+
+- **Sprint Review:**
+  * To be updated.
+
+- **Sprint Review Participants:**
+  * `TBA`
+
+- **Sprint Retrospective:**
+  * To be updated.
 
 </details>
 
@@ -188,10 +290,118 @@ graph TD
 <details>
   <summary><h1>Sprint 3</h1></summary>
 
+---
 
+<details>
+    <summary><h2>App Screenshots</h2></summary>
+
+Coming Soon.
+
+New features and updated screens will be added in this section.
 
 </details>
 
+---
+
+<details>
+  <summary><h2>Project Management</h2></summary>
+
+Coming Soon.
+
+Sprint board visuals and task distribution details will be shared here.
+
+</details>
+
+---
+
+<details>
+  <summary><h2>Burndown Chart</h2></summary>
+
+Coming Soon.
+
+Sprint burndown and performance charts will be available here.
+
+</details>
+
+---
+
+- **Sprint Notes:**
+  * To be updated.
+
+- **Expected point completion within Sprint:**
+  * `TBA`
+
+- **Point Completion Logic:**
+  * Details will be updated at the end of the sprint.
+
+- **Sprint Review:**
+  * To be updated.
+
+- **Sprint Review Participants:**
+  * `TBA`
+
+- **Sprint Retrospective:**
+  * To be updated.
+
+</details>
+
+---
+
+<details>
+  <summary><h1>Sprint 4</h1></summary>
+
+---
+
+<details>
+    <summary><h2>App Screenshots</h2></summary>
+
+Coming Soon.
+
+New features and updated screens will be added in this section.
+
+</details>
+
+---
+
+<details>
+  <summary><h2>Project Management</h2></summary>
+
+Coming Soon.
+
+Sprint board visuals and task distribution details will be shared here.
+
+</details>
+
+---
+
+<details>
+  <summary><h2>Burndown Chart</h2></summary>
+
+Coming Soon.
+
+Sprint burndown and performance charts will be available here.
+
+</details>
+
+---
+
+- **Sprint Notes:**
+  * To be updated.
+
+- **Expected point completion within Sprint:**
+  * `TBA`
+
+- **Point Completion Logic:**
+  * Details will be updated at the end of the sprint.
+
+- **Sprint Review:**
+  * To be updated.
+
+- **Sprint Review Participants:**
+  * `TBA`
+
+- **Sprint Retrospective:**
+  * To be updated.
 
 </details>
 
