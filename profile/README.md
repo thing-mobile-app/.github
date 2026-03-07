@@ -100,27 +100,28 @@ flowchart TD
         A[Activities]
         AD[Adapters]
     end
-
     subgraph VM["ViewModel Layer"]
         VML[ViewModels]
         LD[LiveData]
     end
-
     subgraph REPO["Repository Layer"]
         R[Repository]
     end
-
+    subgraph DI["DI Layer"]
+        H[Hilt Modules]
+    end
     subgraph FIREBASE["Firebase"]
         AUTH[Firebase Auth]
         FS[Firestore]
         ST[Storage]
     end
-
     UI -->|observes| VM
     VM -->|calls| REPO
     REPO --> AUTH
     REPO --> FS
     REPO --> ST
+    DI -->|injects| VM
+    DI -->|injects| REPO
 ```
 </details>
 
@@ -155,6 +156,18 @@ graph TD
     style J fill:#27AE60,color:#fff
     style K fill:#FFA000,color:#000
 ```
+</details>
+
+---
+
+<details open>
+  <summary><h2>Documents</h2></summary>
+
+| Document | File |
+|:---------|:-----|
+| 📋 Project Proposal | [SWE332_Project_Proposal.pdf](./ProjectManagement/Documents/SWE332_Project_Proposal.pdf) |
+| 👤 Persona File | [thingPersonaFile.pdf](./ProjectManagement/Documents/thingPersonaFile.pdf) |
+
 </details>
 
 ---
@@ -437,6 +450,7 @@ Sprint burndown and performance charts will be available here.
 | Architecture | ![MVVM](https://img.shields.io/badge/MVVM-4A90E2?style=flat) ![LiveData](https://img.shields.io/badge/LiveData-1E88E5?style=flat) ![Navigation](https://img.shields.io/badge/Navigation_Component-3949AB?style=flat) |
 | Backend | ![Firebase Auth](https://img.shields.io/badge/Firebase_Auth-FFCA28?style=flat&logo=firebase&logoColor=black) ![Firestore](https://img.shields.io/badge/Firestore-FFA000?style=flat&logo=firebase&logoColor=black) ![Firebase Storage](https://img.shields.io/badge/Firebase_Storage-F57C00?style=flat&logo=firebase&logoColor=black) |
 | Concurrency | ![Coroutines](https://img.shields.io/badge/Kotlin_Coroutines-7F52FF?style=flat&logo=kotlin&logoColor=white) |
+| Dependency Injection | ![Hilt](https://img.shields.io/badge/Hilt-DI-E91E63?style=flat&logo=android&logoColor=white) |
 | UI | ![View Binding](https://img.shields.io/badge/View_Binding-43A047?style=flat&logo=android&logoColor=white) ![Glide](https://img.shields.io/badge/Glide-2E7D32?style=flat) |
 | Design | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) |
 | Tools | ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white) |
@@ -447,11 +461,34 @@ Sprint burndown and performance charts will be available here.
 ---
 
 <details open>
-  <summary><h2>Color Palette</h2></summary>
+  <summary><h2>Design</h2></summary>
 
-### Colors & Usage
+### Font
 
-> *Coming Soon — will be updated after Figma designs are finalized.*
+| Weight | File |
+|--------|------|
+| Bold | `inter_18pt_bold.ttf` |
+| SemiBold | `inter_18pt_semibold.ttf` |
+| Medium | `inter_18pt_medium.ttf` |
+| Regular | `inter_18pt_regular.ttf` |
+
+### Colors
+
+| Name | Hex | Preview |
+|------|-----|---------|
+| Black | `#171717` | ![](https://img.shields.io/badge/-%23171717-171717) |
+| White | `#F5F8FA` | ![](https://img.shields.io/badge/-%23F5F8FA-F5F8FA) |
+| Blue | `#000DAE` | ![](https://img.shields.io/badge/-%23000DAE-000DAE) |
+| Dark Blue | `#000759` | ![](https://img.shields.io/badge/-%23000759-000759) |
+| Blue Gray | `#97AABD` | ![](https://img.shields.io/badge/-%2397AABD-97AABD) |
+| Blue 100 | `#B8D9FA` | ![](https://img.shields.io/badge/-%23B8D9FA-B8D9FA) |
+| Gray 500 | `#969899` | ![](https://img.shields.io/badge/-%23969899-969899) |
+| Gray 700 | `#666666` | ![](https://img.shields.io/badge/-%23666666-666666) |
+| Light Red | `#FF9999` | ![](https://img.shields.io/badge/-%23FF9999-FF9999) |
+| Red | `#FF0000` | ![](https://img.shields.io/badge/-%23FF0000-FF0000) |
+| Orange Yellow | `#F8BA00` | ![](https://img.shields.io/badge/-%23F8BA00-F8BA00) |
+| Card Background | `#FAFDFF` | ![](https://img.shields.io/badge/-%23FAFDFF-FAFDFF) |
+| Line | `#E9EAEC` | ![](https://img.shields.io/badge/-%23E9EAEC-E9EAEC) |
 
 </details>
 
