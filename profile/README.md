@@ -4,21 +4,20 @@
 
 <h1>thing.</h1>
 
-  <p>
-    <strong>thing</strong> is a mobile e-commerce application designed for buying and selling 
-    high-quality furniture products such as cupboards, chairs, tables, and other home furniture items.
-  </p>
+<p>
+  <strong>thing</strong> is a mobile e-commerce application designed for buying and selling
+  high-quality furniture products such as cupboards, chairs, tables, and other home furniture items.
+</p>
 
-  <p>
-    The application connects customers who are looking for modern and quality furniture 
-    with merchants who want to expand their market and offer their products online.
-  </p>
+<p>
+  The application connects customers who are looking for modern and quality furniture
+  with merchants who want to expand their market and offer their products online.
+</p>
 
-  <p>
-    <strong>thing</strong> provides a simple, clean, and user-friendly shopping experience 
-    while enabling sellers to manage their products and orders efficiently.
-  </p>
-</div>
+<p>
+  <strong>thing</strong> provides a simple, clean, and user-friendly shopping experience
+  while enabling sellers to manage their products and orders efficiently.
+</p>
 
 <div align="center">
 
@@ -71,25 +70,77 @@ OUR PHILOSOPHY
 
 ---
 
-## Team Members
+## Team Details
 
-<br/>
+| &nbsp; | Name | Student ID | GitHub |
+|:------:|:-----|:----------:|:-------|
+| <img src="https://github.com/samedTevin.png" width="65" height="65" style="border-radius:50%"/> | **Samed Tevin** | 230513327 | [![GitHub](https://img.shields.io/badge/GitHub-samedTevin-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/samedTevin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samedtevin/) |
+| <img src="https://github.com/hasanackl.png" width="65" height="65" style="border-radius:50%"/> | **Hasan Açıkel** | 220513343 | [![GitHub](https://img.shields.io/badge/GitHub-hasanackl-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hasanackl) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasana%C3%A7%C4%B1kel/) |
+| <img src="https://github.com/CoderRoninn.png" width="65" height="65" style="border-radius:50%"/> | **Doğukan Süme** | 210513243 | [![GitHub](https://img.shields.io/badge/GitHub-CoderRoninn-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CoderRoninn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dogukansume/) |
+| <img src="https://github.com/KaganxSahin.png" width="65" height="65" style="border-radius:50%"/> | **Kağan Şahin** | 220513375 | [![GitHub](https://img.shields.io/badge/GitHub-KaganxSahin-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/KaganxSahin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaganxsahin/) |
 
-| &nbsp; | Name | Title | Socials |
-|:------:|:-----|:-----:|:--------|
-| <img src="https://github.com/samedTevin.png" width="65" height="65" style="border-radius:50%"/> | **Samed Tevin** <br/> <sub>230513327</sub> | Team Leader · Developer | [![GitHub](https://img.shields.io/badge/GitHub-samedTevin-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/samedTevin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Samed%20Tevin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samedtevin/) |
-| <img src="https://github.com/hasanackl.png" width="65" height="65" style="border-radius:50%"/> | **Hasan Açıkel** <br/> <sub>220513343</sub> | Developer | [![GitHub](https://img.shields.io/badge/GitHub-hasanackl-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hasanackl) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hasan%20Açıkel-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasana%C3%A7%C4%B1kel/) |
-| <img src="https://github.com/CoderRoninn.png" width="65" height="65" style="border-radius:50%"/> | **Doğukan Süme** <br/> <sub>210513243</sub> | Developer | [![GitHub](https://img.shields.io/badge/GitHub-CoderRoninn-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CoderRoninn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Doğukan%20Süme-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dogukansume/) |
-| <img src="https://github.com/KaganxSahin.png" width="65" height="65" style="border-radius:50%"/> | **Kağan Şahin** <br/> <sub>220513375</sub> | Developer | [![GitHub](https://img.shields.io/badge/GitHub-KaganxSahin-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/KaganxSahin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kağan%20Şahin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaganxsahin/) |
+---
 
-<br/>
+## Project Introduction
+
+**thing.** is an Android mobile application built with Kotlin and Firebase that serves as a marketplace for home furniture. It addresses the gap between quality furniture sellers and buyers by providing a seamless platform where:
+
+- **Buyers** can browse, search, filter, and purchase furniture with a clean and intuitive UI.
+- **Sellers** can list, manage, and track their products and orders through a dedicated dashboard.
+
+The app follows the **MVVM** architecture pattern with Firebase as the backend (Authentication, Firestore, Storage), and uses Hilt for dependency injection and Kotlin Coroutines for async operations.
+
+---
+
+## Architecture Link
+
+📐 Full architecture documentation: [ARCHITECTURE.md](./ARCHITECTURE.md)
+
+---
+
+<details open>
+  <summary><h2>Documents</h2></summary>
+
+| Document | File |
+|:---------|:-----|
+| 📋 Project Proposal | [SWE332_Project_Proposal.pdf](./ProjectManagement/Documents/SWE332_Project_Proposal.pdf) |
+| 👤 Persona File | [thingPersonaFile.pdf](./ProjectManagement/Documents/thingPersonaFile.pdf) |
+
+</details>
+
+---
+
+## Navigation Flow
+
+```mermaid
+graph TD
+    A([Splash]) --> B{Authenticated?}
+    B -- No --> C[Login / Register]
+    B -- Yes --> D[Home Feed]
+    C --> D
+    D --> E[Product Detail]
+    D --> F[Search & Filter]
+    D --> G[Categories]
+    E --> H[Cart]
+    H --> I[Checkout]
+    I --> J[Order Confirmation]
+    D --> K[Seller Dashboard]
+    K --> L[Add / Edit Product]
+    K --> M[Order Management]
+
+    style A fill:#3DDC84,color:#000
+    style B fill:#FFCA28,color:#000
+    style D fill:#7F52FF,color:#fff
+    style H fill:#F05032,color:#fff
+    style I fill:#F05032,color:#fff
+    style J fill:#27AE60,color:#fff
+    style K fill:#FFA000,color:#000
+```
 
 ---
 
 <details>
-  <summary><h2>Architecture</h2></summary>
-
-## Architecture
+  <summary><h2>Architecture Overview</h2></summary>
 
 **thing.** follows **MVVM (Model-View-ViewModel)** for clean separation of concerns and testability.
 
@@ -123,50 +174,6 @@ flowchart TD
     DI -->|injects| VM
     DI -->|injects| REPO
 ```
-</details>
-
----
-
-<details>
-  <summary><h2>Navigation Flow</h2></summary>
-
-### Navigation Flow
-
-```mermaid
-graph TD
-    A([Splash]) --> B{Authenticated?}
-    B -- No --> C[Login / Register]
-    B -- Yes --> D[Home Feed]
-    C --> D
-    D --> E[Product Detail]
-    D --> F[Search & Filter]
-    D --> G[Categories]
-    E --> H[Cart]
-    H --> I[Checkout]
-    I --> J[Order Confirmation]
-    D --> K[Seller Dashboard]
-    K --> L[Add / Edit Product]
-    K --> M[Order Management]
-
-    style A fill:#3DDC84,color:#000
-    style B fill:#FFCA28,color:#000
-    style D fill:#7F52FF,color:#fff
-    style H fill:#F05032,color:#fff
-    style I fill:#F05032,color:#fff
-    style J fill:#27AE60,color:#fff
-    style K fill:#FFA000,color:#000
-```
-</details>
-
----
-
-<details open>
-  <summary><h2>Documents</h2></summary>
-
-| Document | File |
-|:---------|:-----|
-| 📋 Project Proposal | [SWE332_Project_Proposal.pdf](./ProjectManagement/Documents/SWE332_Project_Proposal.pdf) |
-| 👤 Persona File | [thingPersonaFile.pdf](./ProjectManagement/Documents/thingPersonaFile.pdf) |
 
 </details>
 
@@ -250,8 +257,6 @@ Sprint burndown and performance charts will be available here.
 
 Coming Soon.
 
-New features and updated screens will be added in this section.
-
 </details>
 
 ---
@@ -260,8 +265,6 @@ New features and updated screens will be added in this section.
   <summary><h2>Project Management</h2></summary>
 
 Coming Soon.
-
-Sprint board visuals and task distribution details will be shared here.
 
 </details>
 
@@ -272,29 +275,16 @@ Sprint board visuals and task distribution details will be shared here.
 
 Coming Soon.
 
-Sprint burndown and performance charts will be available here.
-
 </details>
 
 ---
 
-- **Sprint Notes:**
-  * To be updated.
-
-- **Expected point completion within Sprint:**
-  * `TBA`
-
-- **Point Completion Logic:**
-  * Details will be updated at the end of the sprint.
-
-- **Sprint Review:**
-  * To be updated.
-
-- **Sprint Review Participants:**
-  * `TBA`
-
-- **Sprint Retrospective:**
-  * To be updated.
+- **Sprint Notes:** To be updated.
+- **Expected point completion within Sprint:** `TBA`
+- **Point Completion Logic:** Details will be updated at the end of the sprint.
+- **Sprint Review:** To be updated.
+- **Sprint Review Participants:** `TBA`
+- **Sprint Retrospective:** To be updated.
 
 </details>
 
@@ -310,8 +300,6 @@ Sprint burndown and performance charts will be available here.
 
 Coming Soon.
 
-New features and updated screens will be added in this section.
-
 </details>
 
 ---
@@ -320,8 +308,6 @@ New features and updated screens will be added in this section.
   <summary><h2>Project Management</h2></summary>
 
 Coming Soon.
-
-Sprint board visuals and task distribution details will be shared here.
 
 </details>
 
@@ -332,29 +318,16 @@ Sprint board visuals and task distribution details will be shared here.
 
 Coming Soon.
 
-Sprint burndown and performance charts will be available here.
-
 </details>
 
 ---
 
-- **Sprint Notes:**
-  * To be updated.
-
-- **Expected point completion within Sprint:**
-  * `TBA`
-
-- **Point Completion Logic:**
-  * Details will be updated at the end of the sprint.
-
-- **Sprint Review:**
-  * To be updated.
-
-- **Sprint Review Participants:**
-  * `TBA`
-
-- **Sprint Retrospective:**
-  * To be updated.
+- **Sprint Notes:** To be updated.
+- **Expected point completion within Sprint:** `TBA`
+- **Point Completion Logic:** Details will be updated at the end of the sprint.
+- **Sprint Review:** To be updated.
+- **Sprint Review Participants:** `TBA`
+- **Sprint Retrospective:** To be updated.
 
 </details>
 
@@ -370,8 +343,6 @@ Sprint burndown and performance charts will be available here.
 
 Coming Soon.
 
-New features and updated screens will be added in this section.
-
 </details>
 
 ---
@@ -380,8 +351,6 @@ New features and updated screens will be added in this section.
   <summary><h2>Project Management</h2></summary>
 
 Coming Soon.
-
-Sprint board visuals and task distribution details will be shared here.
 
 </details>
 
@@ -392,29 +361,16 @@ Sprint board visuals and task distribution details will be shared here.
 
 Coming Soon.
 
-Sprint burndown and performance charts will be available here.
-
 </details>
 
 ---
 
-- **Sprint Notes:**
-  * To be updated.
-
-- **Expected point completion within Sprint:**
-  * `TBA`
-
-- **Point Completion Logic:**
-  * Details will be updated at the end of the sprint.
-
-- **Sprint Review:**
-  * To be updated.
-
-- **Sprint Review Participants:**
-  * `TBA`
-
-- **Sprint Retrospective:**
-  * To be updated.
+- **Sprint Notes:** To be updated.
+- **Expected point completion within Sprint:** `TBA`
+- **Point Completion Logic:** Details will be updated at the end of the sprint.
+- **Sprint Review:** To be updated.
+- **Sprint Review Participants:** `TBA`
+- **Sprint Retrospective:** To be updated.
 
 </details>
 
@@ -439,10 +395,7 @@ Sprint burndown and performance charts will be available here.
 <details open>
   <summary><h2>Tech Stack</h2></summary>
 
-
-
 ### Libraries & Technologies
-
 
 | Category | Technologies |
 |----------|-------------|
@@ -455,7 +408,8 @@ Sprint burndown and performance charts will be available here.
 | Design | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) |
 | Tools | ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white) |
 | Version Control | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) |
-| Project Management | ![Asana](https://img.shields.io/badge/Asana-F06A6A?style=flat&logo=asana&logoColor=white) |
+| Project Management | ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white) |
+
 </details>
 
 ---
