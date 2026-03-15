@@ -83,10 +83,9 @@ OUR PHILOSOPHY
 
 ## Project Introduction
 
-**thing.** is an Android mobile application built with Kotlin and Firebase that serves as a marketplace for home furniture. It addresses the gap between quality furniture sellers and buyers by providing a seamless platform where:
+Finding quality home furniture is often a fragmented experience — users have to visit multiple stores or websites, deal with inconsistent product information, and have no easy way to compare options in one place. **thing.** addresses this by bringing the furniture shopping experience into a single, clean mobile application.
 
-- **Buyers** can browse, search, filter, and purchase furniture with a clean and intuitive UI.
-- **Sellers** can list, manage, and track their products and orders through a dedicated dashboard.
+**thing.** is an Android application built with Kotlin and Firebase where users can browse, search, filter, and purchase high-quality furniture items such as chairs, tables, cupboards, and other home essentials — all through an intuitive and minimal mobile interface.
 
 The app follows the **MVVM** architecture pattern with Firebase as the backend (Authentication, Firestore, Storage), and uses Hilt for dependency injection and Kotlin Coroutines for async operations.
 
@@ -94,7 +93,7 @@ The app follows the **MVVM** architecture pattern with Firebase as the backend (
 
 ## Architecture Link
 
-📐 Full architecture documentation: [ARCHITECTURE.md](./ARCHITECTURE.md)
+[![Architecture](https://img.shields.io/badge/Architecture-4+1_View_Model-4A90E2?style=flat&logo=readthedocs&logoColor=white)](https://github.com/thing-mobile-app/thing-furniture-app/blob/main/ARCHITECTURE.md)
 
 ---
 
@@ -447,3 +446,4 @@ Coming Soon.
 </details>
 
 ---
+
