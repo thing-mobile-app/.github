@@ -109,75 +109,6 @@ The app follows the **MVVM** architecture pattern with Firebase as the backend (
 
 ---
 
-## Navigation Flow
-
-```mermaid
-graph TD
-    A([Splash]) --> B{Authenticated?}
-    B -- No --> C[Login / Register]
-    B -- Yes --> D[Home Feed]
-    C --> D
-    D --> E[Product Detail]
-    D --> F[Search & Filter]
-    D --> G[Categories]
-    E --> H[Cart]
-    H --> I[Checkout]
-    I --> J[Order Confirmation]
-    D --> K[Seller Dashboard]
-    K --> L[Add / Edit Product]
-    K --> M[Order Management]
-
-    style A fill:#3DDC84,color:#000
-    style B fill:#FFCA28,color:#000
-    style D fill:#7F52FF,color:#fff
-    style H fill:#F05032,color:#fff
-    style I fill:#F05032,color:#fff
-    style J fill:#27AE60,color:#fff
-    style K fill:#FFA000,color:#000
-```
-
----
-
-<details>
-  <summary><h2>Architecture Overview</h2></summary>
-
-**thing.** follows **MVVM (Model-View-ViewModel)** for clean separation of concerns and testability.
-
-```mermaid
-flowchart TD
-    subgraph UI["UI Layer"]
-        F[Fragments]
-        A[Activities]
-        AD[Adapters]
-    end
-    subgraph VM["ViewModel Layer"]
-        VML[ViewModels]
-        LD[LiveData]
-    end
-    subgraph REPO["Repository Layer"]
-        R[Repository]
-    end
-    subgraph DI["DI Layer"]
-        H[Hilt Modules]
-    end
-    subgraph FIREBASE["Firebase"]
-        AUTH[Firebase Auth]
-        FS[Firestore]
-        ST[Storage]
-    end
-    UI -->|observes| VM
-    VM -->|calls| REPO
-    REPO --> AUTH
-    REPO --> FS
-    REPO --> ST
-    DI -->|injects| VM
-    DI -->|injects| REPO
-```
-
-</details>
-
----
-
 # Sprints
 
 <div align="center">
@@ -332,49 +263,6 @@ Coming Soon.
 
 ---
 
-<details>
-  <summary><h1>Sprint 4</h1></summary>
-
----
-
-<details>
-    <summary><h2>App Screenshots</h2></summary>
-
-Coming Soon.
-
-</details>
-
----
-
-<details>
-  <summary><h2>Project Management</h2></summary>
-
-Coming Soon.
-
-</details>
-
----
-
-<details>
-  <summary><h2>Burndown Chart</h2></summary>
-
-Coming Soon.
-
-</details>
-
----
-
-- **Sprint Notes:** To be updated.
-- **Expected point completion within Sprint:** `TBA`
-- **Point Completion Logic:** Details will be updated at the end of the sprint.
-- **Sprint Review:** To be updated.
-- **Sprint Review Participants:** `TBA`
-- **Sprint Retrospective:** To be updated.
-
-</details>
-
----
-
 # Endnotes
 
 <div align="center">
@@ -391,7 +279,7 @@ Coming Soon.
 
 ---
 
-<details open>
+<details>
   <summary><h2>Tech Stack</h2></summary>
 
 ### Libraries & Technologies
@@ -413,7 +301,7 @@ Coming Soon.
 
 ---
 
-<details open>
+<details>
   <summary><h2>Design</h2></summary>
 
 ### Font
