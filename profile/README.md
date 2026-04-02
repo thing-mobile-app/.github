@@ -125,9 +125,36 @@ The app follows the **MVVM** architecture pattern with Firebase as the backend (
 <details>
     <summary><h2>App Screenshots</h2></summary>
 
-Coming Soon.
+<br>
 
-New features and updated screens will be added in this section.
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center"><b>Onboarding</b></td>
+    <td align="center"><b>Auth / Welcome</b></td>
+    <td align="center"><b>Register</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/thing-mobile-app/.github/main/profile/Assets/App_photos/onboarding.png" width="220"/></td>
+    <td><img src="https://raw.githubusercontent.com/thing-mobile-app/.github/main/profile/Assets/App_photos/auth_welcome_screen.png" width="220"/></td>
+    <td><img src="https://raw.githubusercontent.com/thing-mobile-app/.github/main/profile/Assets/App_photos/register_page.png" width="220"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Login</b></td>
+    <td align="center"><b>Reset Password</b></td>
+    <td align="center"><b>Home</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/thing-mobile-app/.github/main/profile/Assets/App_photos/login_page.png" width="220"/></td>
+    <td><img src="https://raw.githubusercontent.com/thing-mobile-app/.github/main/profile/Assets/App_photos/reset_password.png" width="220"/></td>
+    <td><img src="https://raw.githubusercontent.com/thing-mobile-app/.github/main/profile/Assets/App_photos/home_page.png" width="220"/></td>
+  </tr>
+</table>
+
+</div>
+
+<br>
 
 </details>
 
@@ -136,9 +163,19 @@ New features and updated screens will be added in this section.
 <details>
   <summary><h2>Project Management</h2></summary>
 
-Coming Soon.
+<br>
 
-Sprint board visuals and task distribution details will be shared here.
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/thing-mobile-app/.github/main/profile/ProjectManagement/Sprints/Sprint1/board1.png" width="700"/>
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/thing-mobile-app/.github/main/profile/ProjectManagement/Sprints/Sprint1/board2.png" width="700"/>
+
+</div>
+
+<br>
 
 </details>
 
@@ -147,31 +184,34 @@ Sprint board visuals and task distribution details will be shared here.
 <details>
   <summary><h2>Burndown Chart</h2></summary>
 
-Coming Soon.
+<br>
 
-Sprint burndown and performance charts will be available here.
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/thing-mobile-app/.github/main/profile/ProjectManagement/Sprints/Sprint1/sprint1_burndown.png" width="750"/>
+
+</div>
+
+<br>
 
 </details>
 
 ---
 
 - **Sprint Notes:**
-  * To be updated.
-
+  * Full project foundation delivered — Android setup, Firebase integration, and authentication flow.
 - **Expected point completion within Sprint:**
-  * `TBA`
-
+  * `97`
 - **Point Completion Logic:**
-  * Details will be updated at the end of the sprint.
-
+  * 24 tasks across Project Setup (27 SP), Firebase (17 SP), and Authentication (43 SP) epics. All completed.
 - **Sprint Review:**
-  * To be updated.
-
+  * Infrastructure, Firebase backend (Auth + Firestore), and all auth screens shipped with validation & error handling. Jira workspace, proposal template, and persona file also completed.
 - **Sprint Review Participants:**
-  * `TBA`
-
+  * Samed Tevin, Kağan Şahin Doğukan Süme, Hasan Açıkel
 - **Sprint Retrospective:**
-  * To be updated.
+  * **What went well:** All 24 tasks completed with zero carryover. Parallel workstreams kept momentum high.
+  * **What to improve:** Some story point estimates were off. Branching conventions could be set earlier.
+  * **Action items:** Mid-sprint sync checkpoint, refined estimates based on Sprint 1 velocity.
 
 </details>
 
