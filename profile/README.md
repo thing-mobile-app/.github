@@ -74,7 +74,7 @@ OUR PHILOSOPHY
 
 | &nbsp; | Name | Student ID | GitHub |
 |:------:|:-----|:----------:|:-------|
-| <img src="https://github.com/samedTevin.png" width="65" height="65" style="border-radius:50%"/> | **Samed Tevin** | 230513327 | [![GitHub](https://img.shields.io/badge/GitHub-samedTevin-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/samedTevin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samedtevin/) |
+| <img src="https://github.com/samedTevin.png" width="65" height="65" style="border-radius:50%"/> | **Samed Tevin** `Team Leader` | 230513327 | [![GitHub](https://img.shields.io/badge/GitHub-samedTevin-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/samedTevin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samedtevin/) |
 | <img src="https://github.com/hasanackl.png" width="65" height="65" style="border-radius:50%"/> | **Hasan Açıkel** | 220513343 | [![GitHub](https://img.shields.io/badge/GitHub-hasanackl-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hasanackl) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasana%C3%A7%C4%B1kel/) |
 | <img src="https://github.com/CoderRoninn.png" width="65" height="65" style="border-radius:50%"/> | **Doğukan Süme** | 210513243 | [![GitHub](https://img.shields.io/badge/GitHub-CoderRoninn-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CoderRoninn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dogukansume/) |
 | <img src="https://github.com/KaganxSahin.png" width="65" height="65" style="border-radius:50%"/> | **Kağan Şahin** | 220513375 | [![GitHub](https://img.shields.io/badge/GitHub-KaganxSahin-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/KaganxSahin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaganxsahin/) |
@@ -142,12 +142,12 @@ The app follows the **MVVM** architecture pattern with Firebase as the backend (
   </tr>
   <tr>
     <td align="center"><b>Login</b></td>
-    <td align="center"><b>Reset Password</b></td>
+    <td align="center"><b>Forgot Password</b></td>
     <td align="center"><b>Home</b></td>
   </tr>
   <tr>
     <td><img src="https://raw.githubusercontent.com/thing-mobile-app/.github/main/profile/Assets/App_photos/login_page.png" width="220"/></td>
-    <td><img src="https://raw.githubusercontent.com/thing-mobile-app/.github/main/profile/Assets/App_photos/reset_password.png" width="220"/></td>
+    <td><img src="https://raw.githubusercontent.com/thing-mobile-app/.github/main/profile/Assets/App_photos/forgot_password.png" width="220"/></td>
     <td><img src="https://raw.githubusercontent.com/thing-mobile-app/.github/main/profile/Assets/App_photos/home_page.png" width="220"/></td>
   </tr>
 </table>
@@ -207,7 +207,7 @@ The app follows the **MVVM** architecture pattern with Firebase as the backend (
 - **Sprint Review:**
   * Infrastructure, Firebase backend (Auth + Firestore), and all auth screens shipped with validation & error handling. Jira workspace, proposal template, and persona file also completed.
 - **Sprint Review Participants:**
-  * Samed Tevin, Kağan Şahin Doğukan Süme, Hasan Açıkel
+  * Samed Tevin, Hasan Açıkel, Kağan Şahin, Doğukan Süme
 - **Sprint Retrospective:**
   * **What went well:** All 24 tasks completed with zero carryover. Parallel workstreams kept momentum high.
   * **What to improve:** Some story point estimates were off. Branching conventions could be set earlier.
@@ -225,7 +225,46 @@ The app follows the **MVVM** architecture pattern with Firebase as the backend (
 <details>
     <summary><h2>App Screenshots</h2></summary>
 
-Coming Soon.
+<br>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center"><b>Home</b></td>
+    <td align="center"><b>Search & Browse</b></td>
+    <td align="center"><b>Product Detail</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/thing-mobile-app/.github/main/profile/Assets/App_photos/home_page.png" width="220"/></td>
+    <td><img src="https://raw.githubusercontent.com/thing-mobile-app/.github/main/profile/Assets/App_photos/search_and_browse.png" width="220"/></td>
+    <td><img src="https://raw.githubusercontent.com/thing-mobile-app/.github/main/profile/Assets/App_photos/product_detail.png" width="220"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Chair Page</b></td>
+    <td align="center"><b>Cupboard Page</b></td>
+    <td align="center"><b>Furniture Page</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/thing-mobile-app/.github/main/profile/Assets/App_photos/chair_page.png" width="220"/></td>
+    <td><img src="https://raw.githubusercontent.com/thing-mobile-app/.github/main/profile/Assets/App_photos/cupboard_page.png" width="220"/></td>
+    <td><img src="https://raw.githubusercontent.com/thing-mobile-app/.github/main/profile/Assets/App_photos/furniture_page.png" width="220"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Table Page</b></td>
+    <td align="center"><b>Accessory Page</b></td>
+    <td align="center"></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/thing-mobile-app/.github/main/profile/Assets/App_photos/table_page.png" width="220"/></td>
+    <td><img src="https://raw.githubusercontent.com/thing-mobile-app/.github/main/profile/Assets/App_photos/accessory_page.png" width="220"/></td>
+    <td></td>
+  </tr>
+</table>
+
+</div>
+
+<br>
 
 </details>
 
@@ -234,7 +273,19 @@ Coming Soon.
 <details>
   <summary><h2>Project Management</h2></summary>
 
-Coming Soon.
+<br>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/thing-mobile-app/.github/main/profile/ProjectManagement/Sprints/Sprint2/board1.png" width="700"/>
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/thing-mobile-app/.github/main/profile/ProjectManagement/Sprints/Sprint2/board2.png" width="700"/>
+
+</div>
+
+<br>
 
 </details>
 
@@ -243,18 +294,34 @@ Coming Soon.
 <details>
   <summary><h2>Burndown Chart</h2></summary>
 
-Coming Soon.
+<br>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/thing-mobile-app/.github/main/profile/ProjectManagement/Sprints/Sprint2/sprint2_burndown.png" width="750"/>
+
+</div>
+
+<br>
 
 </details>
 
 ---
 
-- **Sprint Notes:** To be updated.
-- **Expected point completion within Sprint:** `TBA`
-- **Point Completion Logic:** Details will be updated at the end of the sprint.
-- **Sprint Review:** To be updated.
-- **Sprint Review Participants:** `TBA`
-- **Sprint Retrospective:** To be updated.
+- **Sprint Notes:**
+  * Navigation infrastructure and product catalog foundation delivered — TabLayout, Fragment & BottomNavigationView navigation implemented. Architecture documentation written and diagrams added.
+- **Expected point completion within Sprint:**
+  * `124`
+- **Point Completion Logic:**
+  * Tasks across Architecture, Documentation, Navigation, and Product Catalog epics. Sprint ran April 2nd – April 16th, 2026. Actual burn completed ahead of the planned end date.
+- **Sprint Review:**
+  * Navigation components (TabLayout, Fragment navigation, BottomNavigationView) fully implemented. ARCHITECTURE.md written and architecture diagrams added. Product catalog model and UI design tasks progressed. Team burned down 124 story points, finishing before sprint deadline.
+- **Sprint Review Participants:**
+  * Samed Tevin, Hasan Açıkel, Kağan Şahin, Doğukan Süme
+- **Sprint Retrospective:**
+  * **What went well:** Burn rate exceeded ideal pace — sprint completed ahead of schedule. Navigation layer delivered cleanly.
+  * **What to improve:** Some TO DO items (cart features, remaining product catalog screens) carried into next sprint. Better scope calibration needed.
+  * **Action items:** Carry over cart and remaining product catalog items to Sprint 3 backlog; refine estimates for UI-heavy tasks.
 
 </details>
 
@@ -268,7 +335,56 @@ Coming Soon.
 <details>
     <summary><h2>App Screenshots</h2></summary>
 
-Coming Soon.
+<br>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center"><b>Cart</b></td>
+    <td align="center"><b>Empty Cart</b></td>
+    <td align="center"><b>Address</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/thing-mobile-app/.github/main/profile/Assets/App_photos/cart.png" width="220"/></td>
+    <td><img src="https://raw.githubusercontent.com/thing-mobile-app/.github/main/profile/Assets/App_photos/empty_cart.png" width="220"/></td>
+    <td><img src="https://raw.githubusercontent.com/thing-mobile-app/.github/main/profile/Assets/App_photos/address.png" width="220"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Billing</b></td>
+    <td align="center"><b>Place Order</b></td>
+    <td align="center"><b>All Orders</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/thing-mobile-app/.github/main/profile/Assets/App_photos/billing.png" width="220"/></td>
+    <td><img src="https://raw.githubusercontent.com/thing-mobile-app/.github/main/profile/Assets/App_photos/place_order.png" width="220"/></td>
+    <td><img src="https://raw.githubusercontent.com/thing-mobile-app/.github/main/profile/Assets/App_photos/all_orders.png" width="220"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Track Orders</b></td>
+    <td align="center"><b>Profile</b></td>
+    <td align="center"><b>Profile Details</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/thing-mobile-app/.github/main/profile/Assets/App_photos/track_orders.png" width="220"/></td>
+    <td><img src="https://raw.githubusercontent.com/thing-mobile-app/.github/main/profile/Assets/App_photos/profile_page.png" width="220"/></td>
+    <td><img src="https://raw.githubusercontent.com/thing-mobile-app/.github/main/profile/Assets/App_photos/profile_details.png" width="220"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Help</b></td>
+    <td align="center"><b>Language</b></td>
+    <td align="center"></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/thing-mobile-app/.github/main/profile/Assets/App_photos/help.png" width="220"/></td>
+    <td><img src="https://raw.githubusercontent.com/thing-mobile-app/.github/main/profile/Assets/App_photos/language.png" width="220"/></td>
+    <td></td>
+  </tr>
+</table>
+
+</div>
+
+<br>
 
 </details>
 
@@ -277,7 +393,19 @@ Coming Soon.
 <details>
   <summary><h2>Project Management</h2></summary>
 
-Coming Soon.
+<br>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/thing-mobile-app/.github/main/profile/ProjectManagement/Sprints/Sprint3/board1.png" width="700"/>
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/thing-mobile-app/.github/main/profile/ProjectManagement/Sprints/Sprint3/board2.png" width="700"/>
+
+</div>
+
+<br>
 
 </details>
 
@@ -286,18 +414,34 @@ Coming Soon.
 <details>
   <summary><h2>Burndown Chart</h2></summary>
 
-Coming Soon.
+<br>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/thing-mobile-app/.github/main/profile/ProjectManagement/Sprints/Sprint3/sprint3_burndown.png" width="750"/>
+
+</div>
+
+<br>
 
 </details>
 
 ---
 
-- **Sprint Notes:** To be updated.
-- **Expected point completion within Sprint:** `TBA`
-- **Point Completion Logic:** Details will be updated at the end of the sprint.
-- **Sprint Review:** To be updated.
-- **Sprint Review Participants:** `TBA`
-- **Sprint Retrospective:** To be updated.
+- **Sprint Notes:**
+  * Orders flow, profile screen, and testing delivered — checkout, order placement, order history & detail screens implemented. Profile UI, animations, and UI responsiveness improvements also completed. System and API documentation written.
+- **Expected point completion within Sprint:**
+  * `105`
+- **Point Completion Logic:**
+  * Tasks across Orders, Profile, Testing, and Documentation epics. Sprint ran April 22nd – April 26th, 2026. Actual burn completed ahead of the planned end date.
+- **Sprint Review:**
+  * Checkout screen, place order functionality, save address & order data to Firestore, order history and detail screens all shipped. Profile screen UI and fetch user profile data completed. Authentication testing, cart system testing, and order workflow testing finalized. Documentation for system requirements, API/Firebase usage, and installation instructions written. Team burned down 105 story points, finishing before sprint deadline.
+- **Sprint Review Participants:**
+  * Samed Tevin, Hasan Açıkel, Kağan Şahin, Doğukan Süme
+- **Sprint Retrospective:**
+  * **What went well:** Sprint completed well ahead of schedule with strong velocity. Orders and profile features delivered end-to-end within a single sprint.
+  * **What to improve:** A few items (Save order data in Firestore, Order history screen, Implement animations, Edit profile functionality, UI responsiveness, testing tasks, Document installation instructions) remained in TO DO or IN PROGRESS near sprint end — scope trimming earlier would help.
+  * **Action items:** Carry over any unfinished tasks to Sprint 4 backlog; prioritize remaining profile and testing items.
 
 </details>
 
@@ -315,7 +459,11 @@ Coming Soon.
 
 ### Video
 
-<p align="center"><em>Coming Soon.</em></p>
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=sBewsbKa2mg">
+    <img src="https://img.youtube.com/vi/sBewsbKa2mg/maxresdefault.jpg" width="700" alt="thing. Promo Video"/>
+  </a>
+</div>
 
 ---
 
