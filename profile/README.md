@@ -439,9 +439,9 @@ The app follows the **MVVM** architecture pattern with Firebase as the backend (
 - **Sprint Review Participants:**
   * Samed Tevin, Hasan Açıkel, Kağan Şahin, Doğukan Süme
 - **Sprint Retrospective:**
-  * **What went well:** Sprint completed well ahead of schedule with strong velocity. Orders and profile features delivered end-to-end within a single sprint.
-  * **What to improve:** A few items (Save order data in Firestore, Order history screen, Implement animations, Edit profile functionality, UI responsiveness, testing tasks, Document installation instructions) remained in TO DO or IN PROGRESS near sprint end — scope trimming earlier would help.
-  * **Action items:** Carry over any unfinished tasks to Sprint 4 backlog; prioritize remaining profile and testing items.
+  * **What went well:** Sprint completed well ahead of schedule with strong velocity. Orders and profile features delivered end-to-end within a single sprint. Project concluded successfully with all core features shipped across three sprints.
+  * **What to improve:** A few items (Save order data in Firestore, Order history screen, Implement animations, Edit profile functionality, UI responsiveness, testing tasks, Document installation instructions) remained in TO DO or IN PROGRESS near sprint end — earlier scope trimming would have helped.
+  * **Action items:** No further sprints planned. Remaining backlog items documented for potential future iterations of the project.
 
 </details>
 
@@ -459,11 +459,11 @@ The app follows the **MVVM** architecture pattern with Firebase as the backend (
 
 ### Video
 
-<div align="center">
+<p align="center">
   <a href="https://www.youtube.com/watch?v=sBewsbKa2mg">
-    <img src="https://img.youtube.com/vi/sBewsbKa2mg/maxresdefault.jpg" width="700" alt="thing. Promo Video"/>
+    <img src="https://img.youtube.com/vi/sBewsbKa2mg/hqdefault.jpg" width="500" alt="thing. Promo Video">
   </a>
-</div>
+</p>
 
 ---
 
